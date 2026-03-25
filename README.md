@@ -82,15 +82,7 @@ Python • SQL • C++ • Java
 
 ---
 
-# 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/utkarsh-pratap-singh/utkarsh-pratap-singh/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 🤝 Connect With Me
 
